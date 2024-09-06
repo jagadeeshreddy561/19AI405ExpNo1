@@ -1,5 +1,5 @@
 # ExpNo 1 : Developing AI Agent with PEAS Description
-### Name : jagadeeshreddy
+### Name : Mallu Jagadeeswar Reddy
 ### Register Number : 212222240059
 
 
@@ -43,7 +43,7 @@ To find the PEAS description for the given AI problem and develop an AI agent.
 
 ## Program:
 
-#### Developed by : jagadeeshreddy
+#### Developed by : Mallu Jagadeeswar Reddy
 #### Register number : 212222240059
 
 ```
